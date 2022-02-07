@@ -19,8 +19,8 @@ const contacts = [
     id: 'richard',
     name: 'Richard Kalehoff',
     handle: '@richardkalehoff',
-    avatarURL: 'http://localhost:5001/richard.jpg.jpg'
-  }
+    avatarURL: 'http://localhost:5001/richard.jpg'
+  },
 ]
 
 class App extends Component {
